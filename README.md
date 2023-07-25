@@ -18,7 +18,7 @@ _I love doing projects to increase my technical skills and keep learning about n
 
 ## 🚀My Games
 
-- [Digitacion 001: An exciting game designed to improve your writing skills while having fun. Developed Unity.](https://github.com/jsebasrojas29/MyWhiskyVue)
+- [Digitacion 001: An exciting game designed to improve your writing skills while having fun. Developed Unity.](https://github.com/jsebasrojas29/Mecanografia2022-)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
