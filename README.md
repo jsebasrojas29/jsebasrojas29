@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Juan Sebastian Trujillo Rojas</h1>
-<h3 align="center">"I am a passionate Full-Stack Developer with 1 year of experience programming with web technologies. I have worked on both personal projects and projects for private companies, crafting clean code, making error corrections, and implementing new features using unit testing.</h3>
+<h3 align="center">"I am a passionate Full-Stack Developer with 1 year of experience programming with web technologies. I have worked on both personal projects and projects for private companies, crafting clean code, making error corrections, and implementing new features.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jsebasrojas29&label=Profile%20views&color=0e75b6&style=flat" alt="jsebasrojas29" /> </p>
 
